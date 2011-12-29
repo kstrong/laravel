@@ -1,0 +1,4 @@
+/.DS_Store
+
+# Ignore sublime project files
+*.sublime-*
